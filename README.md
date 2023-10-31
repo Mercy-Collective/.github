@@ -1,6 +1,6 @@
 ![Mercy Collective](https://github.com/Mercy-Collective/.github/assets/40138067/1ad97bbf-a715-42e2-b642-b126ed6ff521)
 
-## ❓ Introduction
+## Introduction
 
 Hello! 
 We are Mercy Collective. We've been around in the FiveM scene since 2021. 
@@ -14,7 +14,7 @@ Join our Discord server to connect with other developers, seek assistance, and s
 
 [![Join our Discord server](https://discordapp.com/api/guilds/878379225357369404/widget.png?style=banner2)](https://dsc.gg/mercy-coll)
 
-## 📊 Stats
+## Stats
 
 [![](https://img.shields.io/github/followers/mercy-collective?style=for-the-badge)](https://github.com/Mercy-Collective)
 [![](https://komarev.com/ghpvc/?username=mercy-collective&color=blue&style=for-the-badge)](https://github.com/Mercy-Collective)
