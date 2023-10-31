@@ -22,7 +22,7 @@ Join our Discord server to connect with other developers, seek assistance, and s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,react,typescript,mysql,html,tailwindcss,nextjs,jquery,mongodb,php,nodejs,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,react,typescript,mysql,html,tailwindcss,nextjs,jquery,mongodb,php,nodejs,cs,vscode,css,dotnet,express,idea,java,linux,lua,nginx,powershell,py,sqlite" />
   </a>
 </p>
 
