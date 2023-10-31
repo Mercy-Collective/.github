@@ -24,4 +24,4 @@ Join our Discord server to connect with other developers, seek assistance, and s
 ## Framework
 In June 2023 we've launcher the Mercy Framework. It is a powerful and flexible framework designed specifically for FiveM, a modification framework for Grand Theft Auto V. 
 
-![Mercy Collective's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mercy_Collective&hide=contribs,prs)
+![Mercy Collective's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyCollective&hide=contribs,prs)
