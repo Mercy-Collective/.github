@@ -1,4 +1,6 @@
-![Mercy Collective](https://github.com/Mercy-Collective/.github/assets/40138067/1ad97bbf-a715-42e2-b642-b126ed6ff521)
+<a href="https://github.com/Mercy-Collective">
+  <img src="https://github.com/Mercy-Collective/.github/assets/40138067/1ad97bbf-a715-42e2-b642-b126ed6ff521" style="width: 75%" />
+</a>
 
 ## Introduction
 
