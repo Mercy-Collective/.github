@@ -16,9 +16,7 @@ Join our Discord server to connect with other developers, seek assistance, and s
 
 ## Stats
 
-[![](https://img.shields.io/github/followers/mercy-collective?style=for-the-badge)](https://github.com/Mercy-Collective)
-[![](https://komarev.com/ghpvc/?username=mercy-collective&color=blue&style=for-the-badge)](https://github.com/Mercy-Collective)
-[![](https://img.shields.io/youtube/channel/subscribers/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Mercy-Collective)
+[![Mercy-Collective's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mercy-Collective&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Mercy-Collective)
 [![](https://img.shields.io/youtube/channel/views/UCaE1me_eiSmYH_A7HHJraVA?style=for-the-badge)](https://github.com/Mercy-Collective)
 
 ## Framework
