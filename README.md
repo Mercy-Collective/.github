@@ -1,6 +1,6 @@
 <a href="https://github.com/Mercy-Collective">
-  <p align="center" style="width: 75%">
-    <img src="https://github.com/Mercy-Collective/.github/assets/40138067/1ad97bbf-a715-42e2-b642-b126ed6ff521">
+  <p align="center">
+    <img style="width: 75%" src="https://github.com/Mercy-Collective/.github/assets/40138067/1ad97bbf-a715-42e2-b642-b126ed6ff521">
   </p>
 </a>
 
