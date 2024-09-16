@@ -20,7 +20,7 @@ Join our Discord server to connect with other developers, seek assistance, and s
 
 ## Team
 ![AwayFromKane's github stats](https://github-readme-stats.vercel.app/api?username=awayfromkane&show_icons=true&theme=radical)
-![Nielselzingaa's github stats](https://github-readme-stats.vercel.app/api?username=nielselzingaa&show_icons=true&theme=radical)
+![Razer's github stats](https://github-readme-stats.vercel.app/api?username=devrazer&show_icons=true&theme=radical)
 
 ## Coding Languages
 <a href="https://github.com/Mercy-Collective">
