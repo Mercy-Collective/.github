@@ -7,13 +7,11 @@
 ## Introduction
 
 Hello! 
-We are Mercy Collective. We've been around in the FiveM scene since 2021. 
+We are Mercy Collective, a FiveM development studio. We've been around in the FiveM scene since 2021. 
 
-We are a community with experienced developers around the world. 
-Increase the popularity of your server with the help of Mercy.
+Increase the popularity of your server with the help of Mercy or by using our Mercy Framework!
 
 ## Community and Support
-
 Join our Discord server to connect with other developers, seek assistance, and stay up-to-date with the latest announcements and updates regarding the Mercy Framework.
 
 [![Join our Discord server](https://discordapp.com/api/guilds/878379225357369404/widget.png?style=banner2)](https://discord.gg/hYXMqY4Ztx)
@@ -24,6 +22,6 @@ Join our Discord server to connect with other developers, seek assistance, and s
 </a>
 
 ## Framework
-In June 2023 we've launched the Mercy Framework. It is a powerful and flexible framework designed specifically for FiveM, a modification framework for Grand Theft Auto V. 
+In June 2023 we've launched the Mercy Framework. It is a powerful and flexible framework designed specifically for FiveM, a modification framework for Grand Theft Auto V 
 
 [![Framework](https://github-readme-stats.vercel.app/api/pin/?username=Mercy-Collective&repo=mercy-framework&theme=dark#gh-dark-mode-only)](https://github.com/Mercy-Collective/mercy-framework)
